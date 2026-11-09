@@ -1,0 +1,7 @@
+{
+    "format_version": 1,
+    "id": "app.repro.reboot",
+    "name": "Repro reboot",
+    "version": "0.0.1",
+    "api_version": "27.12.0"
+}
